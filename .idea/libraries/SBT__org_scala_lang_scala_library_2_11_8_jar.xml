@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="SBT: org.scala-lang:scala-library:2.11.8:jar" type="Scala">
+    <properties>
+      <compiler-classpath>
+        <root url="file://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-compiler/jars/scala-compiler-2.11.8.jar" />
+        <root url="file://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar" />
+        <root url="file://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.8.jar" />
+      </compiler-classpath>
+    </properties>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jgrapht-1.0.0/jgrapht-1.0.0/lib/antlr4-runtime-4.5.3.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jgrapht-1.0.0/jgrapht-1.0.0/lib/jgraph-5.13.0.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jgrapht-1.0.0/jgrapht-1.0.0/lib/jgrapht-core-1.0.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jgrapht-1.0.0/jgrapht-1.0.0/lib/jgrapht-demo-1.0.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jgrapht-1.0.0/jgrapht-1.0.0/lib/jgrapht-ext-1.0.0-uber.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jgrapht-1.0.0/jgrapht-1.0.0/lib/jgrapht-ext-1.0.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jgrapht-1.0.0/jgrapht-1.0.0/lib/jgraphx-2.0.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
